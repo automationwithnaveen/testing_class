@@ -2,7 +2,7 @@ package com.sample.test;
 
 public class EmployeeSalaryValidation 
 {
-	float salary;
+	private float salary;
 
 	public float getSalary() {
 		return salary;
